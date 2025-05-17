@@ -39,9 +39,16 @@
 
 .welcome {
   display: none;
+  text-align: center;
+  padding-top: 20px;
 }
 
 .welcome_active {
   display: block;
   text-align: center;
+}
+
+.welcome .btn {
+  display: block;
+  margin: 15px auto 0;
 }
